@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SmallTileSource>F:\操作系统实验\Homework\homework1_MyList\MyList\MyList\Assets\pic_13.jpg</SmallTileSource>
+    <MediumTileSource>F:\操作系统实验\Homework\homework1_MyList\MyList\MyList\Assets\pic_13.jpg</MediumTileSource>
+    <LargeTileSource>F:\操作系统实验\Homework\homework1_MyList\MyList\MyList\Assets\pic_13.jpg</LargeTileSource>
+    <WideTileSource>F:\操作系统实验\Homework\homework1_MyList\MyList\MyList\Assets\pic_13.jpg</WideTileSource>
+    <AppIconSource>F:\操作系统实验\Homework\homework1_MyList\MyList\MyList\Assets\pic_13.jpg</AppIconSource>
+    <Source>F:\操作系统实验\Homework\homework1_MyList\MyList\MyList\Assets\pic_13.jpg</Source>
+    <SplashScreenSource>F:\操作系统实验\Homework\homework1_MyList\MyList\MyList\Assets\pic_13.jpg</SplashScreenSource>
+    <PackageLogoSource>F:\操作系统实验\Homework\homework1_MyList\MyList\MyList\Assets\pic_13.jpg</PackageLogoSource>
+  </PropertyGroup>
+</Project>
