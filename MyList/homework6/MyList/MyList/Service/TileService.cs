@@ -126,7 +126,6 @@ namespace MyList.Service
                     }
                 }
             };
-            XmlDocument xdox = content.GetXml();
             return content.GetXml();
         }
 

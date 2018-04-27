@@ -31,13 +31,13 @@
     <AppXManifest Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-18T13:27:53.441</Modified>
+      <Modified>2018-04-19T11:45:04.487</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\bin\x86\Debug\MyList.exe">
       <PackagePath>entrypoint\MyList.exe</PackagePath>
-      <Modified>2018-04-18T13:27:49.852</Modified>
+      <Modified>2018-04-19T11:44:57.390</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\LIUYT\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -609,11 +609,11 @@
     <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-18T13:27:52.548</Modified>
+      <Modified>2018-04-19T11:45:02.968</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\bin\x86\Debug\Core\MyList.exe">
       <PackagePath>MyList.exe</PackagePath>
-      <Modified>2018-04-18T13:27:53.433</Modified>
+      <Modified>2018-04-19T11:45:04.479</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

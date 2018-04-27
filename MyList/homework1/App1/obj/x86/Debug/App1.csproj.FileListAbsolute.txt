@@ -219,3 +219,7 @@ F:\操作系统实验\Homework\homework1_MyList\App1\App1\obj\x86\Debug\NewPage.
 F:\操作系统实验\Homework\homework1_MyList\App1\App1\obj\x86\Debug\NewPage.xaml
 F:\操作系统实验\Homework\homework1_MyList\App1\App1\obj\x86\Debug\NewPage.xbf
 F:\操作系统实验\Homework\homework1_MyList\App1\App1\bin\x86\Debug\NewPage.xbf
+F:\操作系统实验\UWP\MyList\homework1\App1\bin\x86\Debug\System.Linq.Parallel.dll
+F:\操作系统实验\UWP\MyList\homework1\App1\bin\x86\Debug\System.Net.WebHeaderCollection.dll
+F:\操作系统实验\UWP\MyList\homework1\App1\bin\x86\Debug\System.Net.WebSockets.Client.dll
+F:\操作系统实验\UWP\MyList\homework1\App1\bin\x86\Debug\System.Private.ServiceModel.dll
