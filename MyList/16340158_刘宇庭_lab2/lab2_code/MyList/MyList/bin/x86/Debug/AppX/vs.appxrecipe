@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>d6118c4d-cbe2-4c3a-bd03-5bae7a198543</PackageIdentityName>
     <PackageIdentityPublisher>CN=LIUYT</PackageIdentityPublisher>
-    <IntermediateOutputPath>F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>4C6F82D3DF0A6853301492A88E7A10AFB4B06B35BE3FEA1D9C1DA8F5CC36F437</RegisteredManifestChecksum>
+    <LayoutDir>F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>D7E97662A13C1480FDA9B431BA4B41A5622F000221465C0E5612655288C852B8</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>d6118c4d-cbe2-4c3a-bd03-5bae7a198543_1.0.0.0_x86__zdzj9gmvbbtp6</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>d6118c4d-cbe2-4c3a-bd03-5bae7a198543_zdzj9gmvbbtp6!App</RegisteredUserModeAppID>
     <RegisteredPackageID>d6118c4d-cbe2-4c3a-bd03-5bae7a198543</RegisteredPackageID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-18T13:27:53.441</Modified>
+      <Modified>2018-05-31T18:23:17.609</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\bin\x86\Debug\MyList.exe">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\bin\x86\Debug\MyList.exe">
       <PackagePath>entrypoint\MyList.exe</PackagePath>
-      <Modified>2018-04-18T13:27:49.852</Modified>
+      <Modified>2018-05-31T18:23:11.500</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\LIUYT\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -511,109 +511,121 @@
       <PackagePath>sqlite3.dll</PackagePath>
       <Modified>2018-04-11T15:51:05.608</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-04-09T14:47:47.853</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T14:47:47.855</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T14:47:47.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T14:47:47.861</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T14:47:47.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T14:47:47.859</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T14:47:47.849</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-04-09T14:47:34.659</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\pic_1.jpg">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\pic_1.jpg">
       <PackagePath>Assets\pic_1.jpg</PackagePath>
       <Modified>2018-03-28T13:56:01.091</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\pic_10.jpg">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\pic_10.jpg">
       <PackagePath>Assets\pic_10.jpg</PackagePath>
       <Modified>2018-03-28T13:56:01.372</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\pic_11.jpg">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\pic_11.jpg">
       <PackagePath>Assets\pic_11.jpg</PackagePath>
       <Modified>2018-03-28T13:56:01.372</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\pic_12.jpg">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\pic_12.jpg">
       <PackagePath>Assets\pic_12.jpg</PackagePath>
       <Modified>2018-03-28T13:56:01.372</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\pic_13.jpg">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\pic_13.jpg">
       <PackagePath>Assets\pic_13.jpg</PackagePath>
       <Modified>2018-04-07T10:04:52.315</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\pic_2.jpg">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\pic_2.jpg">
       <PackagePath>Assets\pic_2.jpg</PackagePath>
       <Modified>2018-03-28T13:56:01.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\pic_3.jpg">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\pic_3.jpg">
       <PackagePath>Assets\pic_3.jpg</PackagePath>
       <Modified>2018-03-28T13:56:01.107</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\pic_5.jpg">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\pic_5.jpg">
       <PackagePath>Assets\pic_5.jpg</PackagePath>
       <Modified>2018-03-28T13:56:01.341</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\pic_6.jpg">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\pic_6.jpg">
       <PackagePath>Assets\pic_6.jpg</PackagePath>
       <Modified>2018-03-28T13:56:01.357</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\pic_7.jpg">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\pic_7.jpg">
       <PackagePath>Assets\pic_7.jpg</PackagePath>
       <Modified>2018-03-28T13:56:01.357</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Assets\pic_8.jpg">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Assets\pic_8.jpg">
       <PackagePath>Assets\pic_8.jpg</PackagePath>
       <Modified>2018-03-28T13:56:01.357</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-03-28T13:54:47.571</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\bin\x86\Debug\MyList.xr.xml">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\bin\x86\Debug\MyList.xr.xml">
       <PackagePath>MyList.xr.xml</PackagePath>
       <Modified>2018-04-17T11:36:13.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2018-05-31T18:23:11.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2018-05-31T18:23:11.257</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\bin\x86\Debug\NewPage.xbf">
+      <PackagePath>NewPage.xbf</PackagePath>
+      <Modified>2018-05-31T18:23:11.257</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.15063.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2018-03-10T16:39:40.426</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-18T13:27:52.548</Modified>
+      <Modified>2018-05-31T18:23:16.208</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\操作系统实验\UWP\MyList\homework6\MyList\MyList\bin\x86\Debug\Core\MyList.exe">
+    <AppxPackagedFile Include="F:\操作系统应用开发\UWP\MyList\16340158_刘宇庭_lab2\lab2_code\MyList\MyList\bin\x86\Debug\Core\MyList.exe">
       <PackagePath>MyList.exe</PackagePath>
-      <Modified>2018-04-18T13:27:53.433</Modified>
+      <Modified>2018-05-31T18:23:17.609</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
@@ -646,27 +658,27 @@
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26128.0</Version>
+      <Version>14.0.26428.1</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26128.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26428.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26128.0</Version>
+      <Version>14.0.26428.1</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26128.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26428.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.26128.0</Version>
+      <Version>14.0.26428.1</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26128.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26428.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
